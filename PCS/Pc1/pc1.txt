@@ -1,0 +1,119 @@
+Placa-Mãe Asus TUF Gaming B550M-PLUS AMD DDR4
+
+A placa-mãe Asus TUF Gaming B550M-PLUS combina os elementos essenciais da mais recente plataforma AMD com recursos projetados para jogos e durabilidade testada. Com componentes de nível militar, soluções de energia aprimoradas e um sistema completo de refrigeração, ela oferece desempenho estável e confiável para os jogadores mais exigentes.
+
+Principais Características:
+
+Soquete AMD AM4: Compatível com processadores AMD Ryzen de 3ª geração.
+Solução de Energia Aprimorada: Configuração de 8+2 fases de alimentação, conector ProCool, componentes de nível militar TUF e VRM Digi+ garantem máxima durabilidade e desempenho.
+Refrigeração Abrangente: Dissipadores de calor no VRM, dissipador de calor sem ventoinha no PCH, dissipador de calor M.2, headers de ventoinha híbridos e utilitário Fan Xpert 2+ proporcionam uma gestão térmica eficiente.
+TUF Gaming Alliance: Ao montar o seu setup com a placa-mãe TUF Gaming, você conta com a TUF Gaming Alliance – uma colaboração entre a ASUS e parceiros do setor, que facilita a montagem, garante compatibilidade e oferece uma estética harmoniosa entre componentes e gabinetes.
+Essa combinação de tecnologia de ponta e durabilidade torna a TUF Gaming B550M-PLUS uma escolha ideal para quem busca confiabilidade em jogos e aplicações de alto desempenho.
+
+=====================================================================================================================================
+
+Processador AMD Ryzen 5 5600GT – Desempenho de Elite para Multitarefas e Jogos
+
+O AMD Ryzen 5 5600GT oferece uma combinação perfeita de desempenho e eficiência, sendo ideal para usuários que buscam potência tanto para jogos quanto para tarefas intensivas. Com 6 núcleos e 12 threads, esse processador de arquitetura avançada garante respostas rápidas e fluidez em múltiplas tarefas.
+
+Especificações Principais:
+
+Velocidade Base de 3.6 GHz (até 4.6 GHz em modo Max Turbo) para entregar performance excelente em jogos e softwares pesados.
+6 Núcleos e 12 Threads: Multitarefa eficiente, permitindo o uso de aplicativos pesados enquanto mantém a performance em alta.
+Cache de 4MB: Resposta rápida aos comandos, melhorando o desempenho geral do sistema.
+Compatibilidade AM4: Suporte para motherboards modernas, maximizando a conectividade e a personalização do sistema.
+Ideal para jogadores, criadores de conteúdo e entusiastas que precisam de alto desempenho em suas máquinas, o Ryzen 5 5600GT é uma escolha confiável para qualquer setup que busca equilíbrio entre custo e desempenho de qualidade.
+
+==========================================================================================================================================
+
+Placa de Vídeo RTX 3060 Ventus 2X MSI NVIDIA GeForce, 12GB GDDR6, DLSS, Ray Tracing - RTX 3060 Ventus 2X 12G OC
+
+A MSI GeForce RTX 3060 Ventus 2X 12G OC é a escolha perfeita para gamers e criadores de conteúdo que buscam desempenho e eficiência. Equipada com a arquitetura NVIDIA Ampere, esta placa de vídeo oferece uma experiência de jogo imersiva e gráficos de alta qualidade.
+
+Memória: 12GB GDDR6, garantindo alta velocidade e capacidade para rodar os jogos mais recentes e aplicações gráficas intensivas.
+Ray Tracing: Tecnologia de Ray Tracing em tempo real, proporcionando gráficos ultra-realistas com iluminação, sombras e reflexos precisos.
+DLSS (Deep Learning Super Sampling): Aumenta a taxa de quadros por segundo (FPS) sem comprometer a qualidade da imagem, utilizando IA para renderização avançada.
+Ventilação: Sistema de ventilação dupla com design industrial robusto, mantendo a placa resfriada mesmo durante longas sessões de uso.
+Overclocking: Versão OC (Overclocked) de fábrica, oferecendo desempenho adicional para os usuários mais exigentes.
+Com a RTX 3060 Ventus 2X, você estará preparado para enfrentar qualquer desafio, seja em jogos de última geração ou em projetos de criação de conteúdo. Desfrute de uma performance incrível e de uma qualidade visual impressionante com esta poderosa placa de vídeo.
+
+==========================================================================================================================================
+
+Memória RAM Kingston Fury Beast, 8GB, 3200MHz, DDR4, CL16, Preto - KF432C16BB/8
+
+A Kingston Fury Beast 8GB DDR4 3200MHz é a escolha ideal para quem busca desempenho e confiabilidade em suas atividades diárias, seja para jogos, edição de vídeo ou outras tarefas intensivas.
+
+Capacidade: 8GB DDR4, oferecendo a quantidade de memória necessária para multitarefas e aplicações exigentes.
+Velocidade: Frequência de 3200MHz, garantindo alta performance e rapidez na execução de programas.
+Latência: CL16, proporcionando tempos de resposta rápidos e eficientes.
+Compatibilidade: Suporte para Intel XMP e AMD Ryzen, facilitando a configuração e otimização do sistema.
+Dissipador de Calor: Design de perfil baixo que ajuda a manter a memória resfriada, mesmo sob carga intensa.
+Overclocking Automático: Ajusta automaticamente para a maior performance suportada pelo sistema, sem necessidade de ajustes manuais.
+Com a Kingston Fury Beast, você terá uma memória robusta e eficiente, pronta para elevar o desempenho do seu PC a um novo nível. Ideal para gamers e profissionais que precisam de uma solução confiável e de alta qualidade.
+
+==========================================================================================================================================
+
+Fonte Gamer Rise Mode Zeus, 650W, Bronze, Full Modular, PFC Ativo, Preto - RM-PSU-01-BZ-650
+
+A Fonte Gamer Rise Mode Zeus 650W é a escolha ideal para gamers que buscam potência e eficiência. Com certificação Bronze, esta fonte garante uma entrega de energia estável e confiável para todos os componentes do seu PC.
+
+Potência: 650W de potência real, perfeita para setups de alta performance.
+Certificação: Bronze, assegurando uma eficiência de até 85%.
+Modularidade: Full Modular, permitindo uma melhor organização dos cabos e fluxo de ar dentro do gabinete.
+PFC Ativo: Proporciona maior compatibilidade com a rede elétrica e eficiência energética.
+Ventilação: Ventilador silencioso de 120mm, garantindo resfriamento eficiente mesmo durante uso intenso.
+Proteções: Múltiplos circuitos de proteção, incluindo OVP (Proteção contra Sobretensão), UVP (Proteção contra Subtensão), OPP (Proteção contra Sobrecarga), OCP (Proteção contra Sobrecorrente), OTP (Proteção contra Excesso de Temperatura), SCP (Proteção contra Curto-Circuito) e SP (Proteção contra Surto Elétrico).
+Tecnologia NLO: Permite operação sem carga, prolongando a vida útil da fonte.
+Com a Rise Mode Zeus 650W, você terá a tranquilidade de saber que seu sistema está protegido e funcionando com máxima eficiência. Ideal para setups gamers que exigem o melhor em desempenho e durabilidade.
+
+=========================================================================================================================================
+
+SSD SATA WD Green, 1TB, 2.5", Leitura: 545MB/s e Gravação: 550MB/s, Preto - WDS100T3G0A
+
+O SSD SATA WD Green 1TB é a solução ideal para quem busca desempenho e confiabilidade em armazenamento. Projetado para uso em laptops e desktops, este SSD oferece uma experiência de computação mais rápida e eficiente.
+
+Capacidade: 1TB, proporcionando amplo espaço para armazenar seus arquivos, jogos e aplicativos.
+Velocidade: Leitura sequencial de até 545MB/s e gravação sequencial de até 550MB/s, garantindo transferências de dados rápidas e eficientes.
+Formato: 2.5", compatível com a maioria dos computadores e fácil de instalar.
+Eficiência Energética: Consumo de energia reduzido, ajudando a prolongar a vida útil da bateria de laptops.
+Confiabilidade: Sem partes móveis, o SSD é resistente a choques e vibrações, protegendo seus dados contra perdas acidentais.
+Tecnologia: Equipado com a tecnologia de cache SLC (Single-Level Cell), que melhora o desempenho de gravação.
+Com o WD Green 1TB, você pode esperar inicializações rápidas, carregamento ágil de aplicativos e uma experiência de computação mais fluida. Ideal para quem precisa de um upgrade de armazenamento confiável e de alta performance.
+
+=========================================================================================================================================
+
+Air Cooler Rise Mode Gamer G800, RGB, AMD/Intel, 90mm, Preto - RM-AC-O8-RGB
+
+O Air Cooler Rise Mode Gamer G800 é a escolha perfeita para quem busca um resfriamento eficiente e um visual impressionante para o seu setup. Com compatibilidade para processadores AMD e Intel, este cooler oferece desempenho e estilo em um único produto.
+
+Compatibilidade: Suporta uma ampla gama de sockets, incluindo Intel LGA 775/1150/1151/1155/1156/1366/1200/1700 e AMD FM1/FM2+/AM2/AM2+/AM3/AM3+/AM4/AM512.
+Desempenho: Equipado com 6 heat pipes e um ventilador de 90mm, o G800 oferece um excelente fluxo de ar de até 55 CFM, mantendo seu processador em temperaturas ideais mesmo sob carga intensa12.
+Velocidade do Ventilador: Variável entre 800 e 2100 RPM, ajustando-se automaticamente conforme a necessidade de resfriamento12.
+Silencioso: Operação silenciosa com nível de ruído de apenas 18dB(A), garantindo um ambiente de trabalho ou jogo tranquilo12.
+Iluminação RGB: LEDs RGB integrados que adicionam um toque de estilo ao seu gabinete, com efeitos de iluminação vibrantes e personalizáveis12.
+Durabilidade: Rolamento hidráulico que prolonga a vida útil do ventilador, com uma expectativa de até 30.000 horas de operação12.
+Eficiência Energética: Conector 4-pin PWM e tensão de 12V, proporcionando uma operação eficiente e estável12.
+Com o Rise Mode Gamer G800, você garante um resfriamento eficaz e um visual moderno para o seu PC, ideal para gamers e entusiastas de hardware que não abrem mão de desempenho e estilo.
+
+=========================================================================================================================================
+
+Gabinete Gamer Rise Mode Glass 06x, Mid Tower, ARGB, ATX, Lateral e Frente em Vidro, 6x Fans, Preto - RM-CA-06XB-ARGB
+
+O Gabinete Gamer Rise Mode Glass 06x é a escolha perfeita para quem busca estilo e funcionalidade em um único produto. Com um design moderno e elegante, este gabinete oferece tudo o que você precisa para montar um setup poderoso e visualmente impressionante.
+
+Design: Painéis laterais e frontais em vidro temperado, proporcionando uma visão clara dos componentes internos e um visual sofisticado.
+Iluminação: Acompanha 6 fans ARGB, permitindo personalização completa da iluminação para combinar com o seu estilo.
+Compatibilidade: Suporte para placas-mãe ATX, M-ATX e ITX, oferecendo flexibilidade na escolha dos componentes.
+Espaço Interno: Amplo espaço interno para instalação de placas de vídeo de até 350mm e coolers de CPU de até 158mm.
+Conectividade: Painel frontal com 1x USB 3.0, 2x USB 2.0 e conectores de áudio HD, facilitando o acesso a periféricos e dispositivos.
+Ventilação: Suporte para até 6 fans, garantindo um excelente fluxo de ar e resfriamento eficiente para todos os componentes.
+Expansão: 7 slots de expansão, 2 baias para HDD de 3,5” e 3 baias para SSD de 2,5”, permitindo uma configuração robusta e expansível.
+Controle: Acompanha controladora de fans e controle remoto para ajuste fácil da iluminação e velocidade dos ventiladores.
+Com o Rise Mode Glass 06x, você terá um gabinete que não só protege e resfria seus componentes, mas também transforma seu setup em uma verdadeira obra de arte. Ideal para gamers e entusiastas que buscam o melhor em desempenho e estética.
+
+==========================================================================================================================================
+
+
+
+
+

@@ -1,0 +1,70 @@
+Processador Intel Core i5-13400, 4.6GHz Max Turbo, Cache 20MB, 10 Núcleos, 16 Threads, LGA 1700, Vídeo Integrado - BX8071513400
+
+O Intel Core i5-13400 é um processador intermediário da 13ª geração da Intel, projetado para oferecer um excelente desempenho em jogos e produtividade. Com uma combinação de núcleos de alta performance e eficiência, ele é ideal para uma ampla gama de aplicações.
+
+Núcleos e Threads: 10 núcleos (6 de performance e 4 de eficiência) e 16 threads, proporcionando um desempenho multitarefa robusto.
+Frequência: Frequência base de 2.5GHz (Performance-cores) e 1.8GHz (Efficient-cores), com frequência turbo máxima de 4.6GHz.
+Cache: 20MB de Intel Smart Cache, melhorando a velocidade de acesso aos dados frequentemente usados.
+Gráficos Integrados: Intel UHD Graphics 730, suportando até 4 monitores e oferecendo uma boa performance gráfica para tarefas cotidianas.
+Memória: Suporte para DDR5 até 4800 MT/s e DDR4 até 3200 MT/s, com capacidade máxima de memória de 192GB.
+Conectividade: Suporte para PCIe 5.0 e 4.0, oferecendo alta largura de banda para placas gráficas e outros dispositivos.
+TDP: Potência térmica de projeto (TDP) de 65W, com consumo máximo de energia turbo de 148W.
+Com o Intel Core i5-13400, você terá um processador versátil e eficiente, capaz de lidar com jogos, edição de vídeo e outras tarefas exigentes com facilidade.
+
+============================================================================================================================================
+
+Memória RAM Gamer Husky Gaming Avalanche, 8GB, 3200MHz, DDR4, CL19, Preto - HGMF007
+
+A Memória RAM Gamer Husky Gaming Avalanche é ideal para quem busca desempenho e estilo em seu setup. Projetada para gamers e entusiastas, esta memória oferece alta velocidade e eficiência térmica.
+
+Capacidade: 8GB DDR4, proporcionando a quantidade necessária de memória para multitarefas e jogos exigentes.
+Velocidade: Frequência de 3200MHz, garantindo alta performance e rapidez na execução de programas e jogos.
+Latência: CL19 (19-19-19-43), oferecendo tempos de resposta rápidos e eficientes.
+Dissipador de Calor: Design elegante com dissipador de calor embutido, que melhora a condutividade térmica e mantém a operação estável.
+Plug & Play: Instalação fácil e rápida, sem necessidade de configurações adicionais.
+Compatibilidade: Formato UDIMM, compatível com a maioria das placas-mãe.
+Voltagem: Opera entre 1.2V e 1.35V, garantindo eficiência energética.
+Com a Husky Gaming Avalanche, você terá uma memória robusta e eficiente, ideal para melhorar o desempenho do seu PC e proporcionar uma experiência de jogo mais suave e responsiva
+
+=========================================================================================================================================
+
+SSD 500 GB Kingston NV2, M.2 2280 PCIe, NVMe, Leitura: 3500 MB/s e Gravação: 2100 MB/s - SNV2S/500G
+
+O SSD Kingston NV2 500GB é uma solução de armazenamento de alta performance, ideal para quem busca velocidade e eficiência em um formato compacto. Com a tecnologia PCIe 4.0 NVMe, este SSD oferece tempos de carregamento rápidos e uma experiência de uso fluida.
+
+Capacidade: 500GB, proporcionando espaço suficiente para armazenar jogos, aplicativos e arquivos grandes.
+Velocidade: Leitura sequencial de até 3500MB/s e gravação sequencial de até 2100MB/s, garantindo transferências de dados extremamente rápidas.
+Formato: M.2 2280, compatível com uma ampla gama de laptops e desktops.
+Tecnologia: Equipado com controlador NVMe Gen 4x4, oferecendo desempenho consistente e confiável.
+Eficiência Energética: Menor consumo de energia e menor aquecimento, ajudando a otimizar o desempenho do sistema.
+Durabilidade: Alta resistência a choques e vibrações, ideal para ambientes de uso intensivo.
+Com o Kingston NV2 500GB, você terá um SSD robusto e eficiente, capaz de melhorar significativamente o desempenho do seu sistema, seja para jogos, edição de vídeo ou outras tarefas exigentes.
+
+=========================================================================================================================================
+
+Fonte Gamer Fortrek ATX Crusader, 500W, sem cabo, Preto - 76955
+
+A Fonte Gamer Fortrek ATX Crusader 500W é uma escolha confiável e eficiente para quem busca alimentar seu sistema gamer com estabilidade e segurança. Com componentes de alta qualidade, esta fonte oferece um desempenho sólido para suportar configurações exigentes.
+
+Potência: 500W, ideal para sistemas de médio porte com placas de vídeo e outros componentes exigentes.
+Tensão de Entrada: Bivolt manual (115V/230V), garantindo compatibilidade com diferentes redes elétricas.
+Conectores: Inclui conectores para placa-mãe 20+4 pinos, CPU 4+4 pinos, PCIe 6+2 pinos, e múltiplos conectores SATA e Molex, oferecendo flexibilidade na conexão de diversos componentes.
+Ventilação: Ventilador de 120mm, proporcionando um resfriamento eficiente e operação silenciosa.
+Dimensões: 140 x 150 x 86mm, compatível com a maioria dos gabinetes ATX.
+Eficiência: Fabricada com componentes de alta qualidade para garantir uma entrega de energia estável e eficiente.
+Com a Fortrek ATX Crusader 500W, você terá uma fonte de alimentação robusta e confiável, ideal para manter seu sistema funcionando de forma estável e segura.
+
+========================================================================================================================================
+
+Gabinete MasterBox Q300L, Cooler Master, Mini Tower, Preto - MCB-Q300L-KANN-S00
+
+O Gabinete Cooler Master MasterBox Q300L é uma excelente escolha para quem busca flexibilidade e funcionalidade em um design compacto. Ideal para setups de jogos e uso diário, este gabinete oferece uma série de recursos avançados para otimizar o desempenho e a estética do seu PC.
+
+Design: Painel lateral de acrílico transparente de borda a borda, permitindo uma visão clara dos componentes internos e um visual moderno.
+Flexibilidade: Painel I/O modular que pode ser ajustado em seis diferentes locais, oferecendo maior versatilidade na configuração do sistema.
+Ventilação: Suporte para até duas ventoinhas frontais de 140mm e radiadores de até 240mm, além de uma ventoinha traseira de 120mm e duas ventoinhas no topo, garantindo excelente desempenho térmico.
+Compatibilidade: Suporte para placas-mãe ATX, Micro-ATX e Mini-ITX, oferecendo flexibilidade na escolha dos componentes.
+Espaço Interno: Suporta coolers de CPU de até 159mm de altura, placas gráficas de até 360mm de comprimento e fontes de alimentação de até 160mm de comprimento.
+Filtros de Poeira: Filtros de poeira magnéticos com padrão especial, ajudando a manter o interior do gabinete limpo e livre de poeira.
+Organização de Cabos: Área de 20mm atrás da placa-mãe para organização de cabos, garantindo um interior limpo e organizado.
+Com o MasterBox Q300L, você terá um gabinete compacto e versátil, perfeito para montar um sistema eficiente e estiloso, seja para jogos ou uso diário.
