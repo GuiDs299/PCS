@@ -86,7 +86,7 @@ Air Cooler Rise Mode Gamer G800, RGB, AMD/Intel, 90mm, Preto - RM-AC-O8-RGB
 
 O Air Cooler Rise Mode Gamer G800 é a escolha perfeita para quem busca um resfriamento eficiente e um visual impressionante para o seu setup. Com compatibilidade para processadores AMD e Intel, este cooler oferece desempenho e estilo em um único produto.
 
-Compatibilidade: Suporta uma ampla gama de sockets, incluindo Intel LGA 775/1150/1151/1155/1156/1366/1200/1700 e AMD FM1/FM2+/AM2/AM2+/AM3/AM3+/AM4/AM512.
+Compatibilidade: Suporta uma ampla gama de sockets, incluindo Intel LGA 775/1150/1151/1155/1156/1366/1200/1700 e AMD FM1/FM2+/AM2/AM2+/AM3/AM3+/AM4/AM5.
 Desempenho: Equipado com 6 heat pipes e um ventilador de 90mm, o G800 oferece um excelente fluxo de ar de até 55 CFM, mantendo seu processador em temperaturas ideais mesmo sob carga intensa.
 Velocidade do Ventilador: Variável entre 800 e 2100 RPM, ajustando-se automaticamente conforme a necessidade de resfriamento.
 Silencioso: Operação silenciosa com nível de ruído de apenas 18dB(A), garantindo um ambiente de trabalho ou jogo tranquilo.
