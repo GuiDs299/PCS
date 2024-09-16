@@ -87,12 +87,12 @@ Air Cooler Rise Mode Gamer G800, RGB, AMD/Intel, 90mm, Preto - RM-AC-O8-RGB
 O Air Cooler Rise Mode Gamer G800 é a escolha perfeita para quem busca um resfriamento eficiente e um visual impressionante para o seu setup. Com compatibilidade para processadores AMD e Intel, este cooler oferece desempenho e estilo em um único produto.
 
 Compatibilidade: Suporta uma ampla gama de sockets, incluindo Intel LGA 775/1150/1151/1155/1156/1366/1200/1700 e AMD FM1/FM2+/AM2/AM2+/AM3/AM3+/AM4/AM512.
-Desempenho: Equipado com 6 heat pipes e um ventilador de 90mm, o G800 oferece um excelente fluxo de ar de até 55 CFM, mantendo seu processador em temperaturas ideais mesmo sob carga intensa12.
-Velocidade do Ventilador: Variável entre 800 e 2100 RPM, ajustando-se automaticamente conforme a necessidade de resfriamento12.
-Silencioso: Operação silenciosa com nível de ruído de apenas 18dB(A), garantindo um ambiente de trabalho ou jogo tranquilo12.
-Iluminação RGB: LEDs RGB integrados que adicionam um toque de estilo ao seu gabinete, com efeitos de iluminação vibrantes e personalizáveis12.
-Durabilidade: Rolamento hidráulico que prolonga a vida útil do ventilador, com uma expectativa de até 30.000 horas de operação12.
-Eficiência Energética: Conector 4-pin PWM e tensão de 12V, proporcionando uma operação eficiente e estável12.
+Desempenho: Equipado com 6 heat pipes e um ventilador de 90mm, o G800 oferece um excelente fluxo de ar de até 55 CFM, mantendo seu processador em temperaturas ideais mesmo sob carga intensa.
+Velocidade do Ventilador: Variável entre 800 e 2100 RPM, ajustando-se automaticamente conforme a necessidade de resfriamento.
+Silencioso: Operação silenciosa com nível de ruído de apenas 18dB(A), garantindo um ambiente de trabalho ou jogo tranquilo.
+Iluminação RGB: LEDs RGB integrados que adicionam um toque de estilo ao seu gabinete, com efeitos de iluminação vibrantes e personalizáveis.
+Durabilidade: Rolamento hidráulico que prolonga a vida útil do ventilador, com uma expectativa de até 30.000 horas de operação.
+Eficiência Energética: Conector 4-pin PWM e tensão de 12V, proporcionando uma operação eficiente e estável.
 Com o Rise Mode Gamer G800, você garante um resfriamento eficaz e um visual moderno para o seu PC, ideal para gamers e entusiastas de hardware que não abrem mão de desempenho e estilo.
 
 =========================================================================================================================================
