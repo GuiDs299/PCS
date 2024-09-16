@@ -7,9 +7,9 @@ Núcleos e Threads: 16 núcleos (8 P-cores e 8 E-cores) e 24 threads, proporcion
 Frequência: Frequência base de 3.4GHz, com capacidade de atingir até 5.4GHz em modo Turbo, garantindo alta velocidade para jogos e aplicações pesadas.
 Cache: 30MB de Intel Smart Cache, melhorando a eficiência e a velocidade de acesso aos dados.
 Memória: Suporte para DDR5 até 5600 MT/s e DDR4 até 3200 MT/s, oferecendo flexibilidade na escolha da memória.
-Gráficos Integrados: Intel UHD Graphics 770, suportando até 4 monitores 4K simultâneos e resolução máxima de 8K HDR12.
-Tecnologias Avançadas: Inclui Intel Turbo Boost Max Technology 3.0, Intel Thermal Velocity Boost, Intel Thread Director e suporte para PCIe 5.0 e 4.012.
-Eficiência Energética: Potência base de 125W, com gerenciamento térmico avançado para manter o desempenho sem superaquecimento12.
+Gráficos Integrados: Intel UHD Graphics 770, suportando até 4 monitores 4K simultâneos e resolução máxima de 8K HDR.
+Tecnologias Avançadas: Inclui Intel Turbo Boost Max Technology 3.0, Intel Thermal Velocity Boost, Intel Thread Director e suporte para PCIe 5.0 e 4.0.
+Eficiência Energética: Potência base de 125W, com gerenciamento térmico avançado para manter o desempenho sem superaquecimento.
 Com o Intel Core i7-13700K, você terá um processador robusto e versátil, capaz de lidar com as tarefas mais exigentes, desde jogos de última geração até edição de vídeo e modelagem 3D.
 
 ==========================================================================================================================================
@@ -19,15 +19,15 @@ Placa-Mãe ASUS ROG STRIX Z790-A GAMING WIFI II, INTEL, Z790, ATX, DDR5 - 90MB1F
 A ASUS ROG STRIX Z790-A GAMING WIFI II é uma placa-mãe de alto desempenho, projetada para gamers e entusiastas que buscam o máximo em tecnologia e estilo. Com suporte para os mais recentes processadores Intel e uma série de recursos avançados, esta placa-mãe é a base perfeita para um setup de ponta.
 
 Socket: Intel LGA 1700, compatível com processadores Intel de 12ª e 13ª geração.
-Memória: Suporte para DDR5, permitindo velocidades de memória superiores a 7800 MT/s com AEMP II e XMP12.
-Slots de Expansão: Cinco slots M.2 PCIe 4.0, todos com dissipadores de calor, e um slot PCIe 5.0 x16 com Q-Release12.
-Conectividade: WiFi 7 integrado e Ethernet Intel 2.5 Gb, garantindo conexões rápidas e estáveis12.
-Portas USB: Porta traseira USB 3.2 Gen 2x2 Tipo-C e conector de painel frontal com PD 3.0 até 30W, além de várias portas USB 3.2 Gen 2 e Gen 1 adicionais12.
-Refrigeração: Dissipadores de calor robustos com cobertura de I/O integrada, thermal pads de alta condutividade e heatpipe em forma de L para otimização térmica12.
-Recursos de Overclocking: AI Overclocking, AI Cooling II e AI Networking, facilitando a configuração e melhorando o desempenho12.
-Áudio: Codec ALC4080 com amplificador Savitech SV3H712, DTS Sound Unbound e Sonic Studio III para uma experiência de áudio imersiva12.
-Iluminação RGB: Aura Sync RGB com headers RGB e três headers Gen 2 endereçáveis, permitindo personalização completa da iluminação12.
-Design DIY-Friendly: Recursos como PCIe Q-Release, M.2 Q-Latch, blindagem de I/O pré-montada, Q-LED, botão BIOS FlashBack e Clear CMOS facilitam a montagem e manutenção12.
+Memória: Suporte para DDR5, permitindo velocidades de memória superiores a 7800 MT/s com AEMP II e XMP.
+Slots de Expansão: Cinco slots M.2 PCIe 4.0, todos com dissipadores de calor, e um slot PCIe 5.0 x16 com Q-Release.
+Conectividade: WiFi 7 integrado e Ethernet Intel 2.5 Gb, garantindo conexões rápidas e estáveis.
+Portas USB: Porta traseira USB 3.2 Gen 2x2 Tipo-C e conector de painel frontal com PD 3.0 até 30W, além de várias portas USB 3.2 Gen 2 e Gen 1 adicionais.
+Refrigeração: Dissipadores de calor robustos com cobertura de I/O integrada, thermal pads de alta condutividade e heatpipe em forma de L para otimização térmica.
+Recursos de Overclocking: AI Overclocking, AI Cooling II e AI Networking, facilitando a configuração e melhorando o desempenho.
+Áudio: Codec ALC4080 com amplificador Savitech SV3H712, DTS Sound Unbound e Sonic Studio III para uma experiência de áudio imersiva.
+Iluminação RGB: Aura Sync RGB com headers RGB e três headers Gen 2 endereçáveis, permitindo personalização completa da iluminação.
+Design DIY-Friendly: Recursos como PCIe Q-Release, M.2 Q-Latch, blindagem de I/O pré-montada, Q-LED, botão BIOS FlashBack e Clear CMOS facilitam a montagem e manutenção.
 Com a ASUS ROG STRIX Z790-A GAMING WIFI II, você terá uma placa-mãe robusta e versátil, pronta para suportar os componentes mais avançados e oferecer uma experiência de jogo e criação de conteúdo incomparável.
 
 =========================================================================================================================================
@@ -39,10 +39,10 @@ A Corsair Vengeance RGB DDR5 32GB (2x16GB) é a escolha ideal para quem busca de
 Capacidade: 32GB (2x16GB), oferecendo ampla memória para multitarefas e aplicações exigentes.
 Velocidade: Frequência de 6200MHz, garantindo alta performance e rapidez na execução de programas e jogos.
 Latência: CL36, proporcionando tempos de resposta rápidos e eficientes.
-Iluminação RGB: Dez LEDs RGB endereçáveis individualmente por módulo, com efeitos de iluminação dinâmicos e personalizáveis através do software iCUE12.
-Compatibilidade: Otimizada para as mais recentes placas-mãe Intel DDR5, garantindo compatibilidade e desempenho máximos12.
-Overclocking: Regulação de voltagem integrada e suporte para Intel XMP 3.0, facilitando o overclocking estável e eficiente12.
-Design: Dissipador de calor em alumínio de perfil baixo, garantindo resfriamento eficiente e compatibilidade com uma ampla gama de gabinetes12.
+Iluminação RGB: Dez LEDs RGB endereçáveis individualmente por módulo, com efeitos de iluminação dinâmicos e personalizáveis através do software iCUE.
+Compatibilidade: Otimizada para as mais recentes placas-mãe Intel DDR5, garantindo compatibilidade e desempenho máximos.
+Overclocking: Regulação de voltagem integrada e suporte para Intel XMP 3.0, facilitando o overclocking estável e eficiente.
+Design: Dissipador de calor em alumínio de perfil baixo, garantindo resfriamento eficiente e compatibilidade com uma ampla gama de gabinetes.
 Com a Corsair Vengeance RGB DDR5, você terá uma memória de alta qualidade que não só melhora o desempenho do seu sistema, mas também adiciona um toque de estilo com sua iluminação RGB vibrante. Ideal para quem busca o melhor em tecnologia e design.
 
 =========================================================================================================================================
@@ -51,13 +51,13 @@ Placa de Vídeo RTX 4080 Super Gigabyte Aero OC NVIDIA GeForce, 16GB GDDR6, DLSS
 
 A Gigabyte GeForce RTX 4080 Super Aero OC é uma placa de vídeo de alto desempenho, projetada para gamers e criadores de conteúdo que buscam gráficos de última geração e eficiência energética. Com a arquitetura NVIDIA Ada Lovelace, esta placa oferece uma experiência visual incrível e desempenho superior.
 
-Memória: 16GB GDDR6X, proporcionando alta capacidade e velocidade para jogos e aplicações gráficas intensivas12.
-Arquitetura: NVIDIA Ada Lovelace, garantindo eficiência energética e desempenho aprimorado12.
-DLSS 3: Tecnologia de Deep Learning Super Sampling de 4ª geração, que aumenta a taxa de quadros por segundo (FPS) sem comprometer a qualidade da imagem12.
-Ray Tracing: Núcleos RT de 3ª geração, oferecendo gráficos realistas com iluminação, sombras e reflexos precisos12.
-Desempenho: Clock de 2595 MHz e 10240 núcleos CUDA, garantindo alta performance em jogos e aplicações12.
-Conectividade: Interface PCIe 4.0, 3x DisplayPort 1.4a e 1x HDMI 2.1a, suportando até 4 monitores com resolução máxima de 7680x432012.
-Refrigeração: Sistema de resfriamento eficiente com ventiladores de alta performance, mantendo a placa resfriada mesmo sob carga intensa12.
+Memória: 16GB GDDR6X, proporcionando alta capacidade e velocidade para jogos e aplicações gráficas intensivas.
+Arquitetura: NVIDIA Ada Lovelace, garantindo eficiência energética e desempenho aprimorado.
+DLSS 3: Tecnologia de Deep Learning Super Sampling de 4ª geração, que aumenta a taxa de quadros por segundo (FPS) sem comprometer a qualidade da imagem.
+Ray Tracing: Núcleos RT de 3ª geração, oferecendo gráficos realistas com iluminação, sombras e reflexos precisos.
+Desempenho: Clock de 2595 MHz e 10240 núcleos CUDA, garantindo alta performance em jogos e aplicações.
+Conectividade: Interface PCIe 4.0, 3x DisplayPort 1.4a e 1x HDMI 2.1a, suportando até 4 monitores com resolução máxima de 7680x4320.
+Refrigeração: Sistema de resfriamento eficiente com ventiladores de alta performance, mantendo a placa resfriada mesmo sob carga intensa.
 Com a RTX 4080 Super Aero OC, você terá uma placa de vídeo poderosa e versátil, capaz de lidar com os jogos mais exigentes e projetos de criação de conteúdo com facilidade. Ideal para quem busca o melhor em tecnologia gráfica.
 
 =========================================================================================================================================
@@ -66,12 +66,12 @@ SSD 2 TB Kingston Fury Renegade, M.2 2280 PCIe, NVMe, Leitura: 7300MB/s e Grava�
 
 O SSD Kingston Fury Renegade 2TB é uma solução de armazenamento de alta performance, ideal para gamers e entusiastas de hardware que buscam velocidade e eficiência. Com a tecnologia PCIe 4.0 NVMe, este SSD oferece tempos de carregamento rápidos e uma experiência de uso fluida.
 
-Capacidade: 2TB, proporcionando amplo espaço para armazenar jogos, aplicativos e arquivos grandes12.
-Velocidade: Leitura sequencial de até 7300MB/s e gravação sequencial de até 7000MB/s, garantindo transferências de dados extremamente rápidas12.
-Formato: M.2 2280, compatível com uma ampla gama de laptops e desktops12.
-Tecnologia: Equipado com controlador NVMe Gen 4x4 e 3D TLC NAND, oferecendo desempenho consistente e confiável12.
-Dissipação de Calor: Dissipador de calor em alumínio com perfil baixo, que ajuda a manter o SSD resfriado durante uso intenso12.
-Durabilidade: Alta resistência a choques e vibrações, ideal para ambientes de uso intensivo12.
+Capacidade: 2TB, proporcionando amplo espaço para armazenar jogos, aplicativos e arquivos grandes.
+Velocidade: Leitura sequencial de até 7300MB/s e gravação sequencial de até 7000MB/s, garantindo transferências de dados extremamente rápidas.
+Formato: M.2 2280, compatível com uma ampla gama de laptops e desktops.
+Tecnologia: Equipado com controlador NVMe Gen 4x4 e 3D TLC NAND, oferecendo desempenho consistente e confiável.
+Dissipação de Calor: Dissipador de calor em alumínio com perfil baixo, que ajuda a manter o SSD resfriado durante uso intenso.
+Durabilidade: Alta resistência a choques e vibrações, ideal para ambientes de uso intensivo.
 Com o Kingston Fury Renegade 2TB, você terá um SSD robusto e eficiente, capaz de melhorar significativamente o desempenho do seu sistema, seja para jogos, edição de vídeo ou outras tarefas exigentes.
 
 ==========================================================================================================================================
@@ -81,13 +81,13 @@ Fonte Corsair RM1000x, 1000W, 80 Plus Gold, Modular, PFC Ativo
 A Corsair RM1000x é uma fonte de alimentação de alta qualidade, projetada para fornecer energia eficiente e confiável para sistemas de alto desempenho. Com certificação 80 Plus Gold, esta fonte garante eficiência energética e operação silenciosa.
 
 Potência: 1000W, ideal para setups que exigem alta potência e estabilidade.
-Certificação: 80 Plus Gold, garantindo eficiência de até 90%, reduzindo o consumo de energia e o calor gerado12.
-Modularidade: Totalmente modular, permitindo uma melhor organização dos cabos e fluxo de ar dentro do gabinete12.
-Ventilação: Ventilador de levitação magnética de 135mm com modo Zero RPM, que desliga o ventilador em cargas baixas e médias para operação silenciosa12.
-Componentes de Alta Qualidade: Capacitores japoneses de 105°C, proporcionando maior durabilidade e desempenho confiável12.
-Conectividade: Conectores EPS12V, compatível com as mais recentes placas-mãe e GPUs12.
-Tecnologia: Topologia ressonante LLC com conversão DC-DC, garantindo excelente desempenho elétrico e estabilidade12.
-Garantia: 10 anos de garantia, assegurando suporte e confiabilidade a longo prazo12.
+Certificação: 80 Plus Gold, garantindo eficiência de até 90%, reduzindo o consumo de energia e o calor gerado.
+Modularidade: Totalmente modular, permitindo uma melhor organização dos cabos e fluxo de ar dentro do gabinete.
+Ventilação: Ventilador de levitação magnética de 135mm com modo Zero RPM, que desliga o ventilador em cargas baixas e médias para operação silenciosa.
+Componentes de Alta Qualidade: Capacitores japoneses de 105°C, proporcionando maior durabilidade e desempenho confiável.
+Conectividade: Conectores EPS12V, compatível com as mais recentes placas-mãe e GPUs.
+Tecnologia: Topologia ressonante LLC com conversão DC-DC, garantindo excelente desempenho elétrico e estabilidade.
+Garantia: 10 anos de garantia, assegurando suporte e confiabilidade a longo prazo.
 Com a Corsair RM1000x, você terá uma fonte de alimentação robusta e eficiente, perfeita para alimentar seu PC de alto desempenho com segurança e eficiência
 
 ==========================================================================================================================================
@@ -96,12 +96,12 @@ Water Cooler Corsair H150 RGB, 360mm, AMD/Intel, Preto - CW-9060054-WW
 
 O Water Cooler Corsair H150 RGB é uma solução de resfriamento líquida de alto desempenho, ideal para manter seu processador em temperaturas ideais, mesmo durante as tarefas mais intensas. Com um design elegante e iluminação RGB vibrante, ele combina eficiência e estilo.
 
-Radiador: Radiador de 360mm, proporcionando uma excelente dissipação de calor e mantendo seu sistema resfriado mesmo sob carga pesada12.
-Ventiladores: Três ventiladores CORSAIR SP120 RGB ELITE PWM de 120mm, que oferecem um fluxo de ar concentrado e operação silenciosa12.
-Iluminação RGB: 37 LEDs RGB integrados, permitindo personalização completa da iluminação através do software CORSAIR iCUE12.
-Compatibilidade: Suporte para uma ampla gama de sockets, incluindo Intel LGA 1700, 1200, 115X, 2066 e AMD AM4, AM512.
-Desempenho: Placa fria de cobre otimizada termicamente e bomba de baixo ruído, garantindo um resfriamento eficiente e silencioso12.
-Instalação: Suporte de montagem modular e sem ferramentas, facilitando a instalação em qualquer sistema12.
+Radiador: Radiador de 360mm, proporcionando uma excelente dissipação de calor e mantendo seu sistema resfriado mesmo sob carga pesada.
+Ventiladores: Três ventiladores CORSAIR SP120 RGB ELITE PWM de 120mm, que oferecem um fluxo de ar concentrado e operação silenciosa.
+Iluminação RGB: 37 LEDs RGB integrados, permitindo personalização completa da iluminação através do software CORSAIR iCUE.
+Compatibilidade: Suporte para uma ampla gama de sockets, incluindo Intel LGA 1700, 1200, 115X, 2066 e AMD AM4, AM5.
+Desempenho: Placa fria de cobre otimizada termicamente e bomba de baixo ruído, garantindo um resfriamento eficiente e silencioso.
+Instalação: Suporte de montagem modular e sem ferramentas, facilitando a instalação em qualquer sistema.
 Com o Corsair H150 RGB, você terá um resfriamento poderoso e confiável, além de uma iluminação impressionante que transforma o visual do seu PC. Ideal para gamers e entusiastas que buscam o melhor em desempenho e estética.
 
 ========================================================================================================================================
@@ -110,14 +110,14 @@ Gabinete Gamer Lian Li Dynamic Mini-X O11, PC Tower, ATX, Lateral em Vidro Tempe
 
 O Gabinete Gamer Lian Li Dynamic Mini-X O11 é a escolha perfeita para quem busca um design elegante e funcionalidade avançada. Com painéis de vidro temperado e uma estrutura robusta, este gabinete oferece uma excelente combinação de estética e desempenho.
 
-Design: Painéis laterais e frontais em vidro temperado de 4mm, proporcionando uma visão clara dos componentes internos e um visual sofisticado12.
-Compatibilidade: Suporte para placas-mãe ATX, Micro-ATX e Mini-ITX, oferecendo flexibilidade na escolha dos componentes12.
-Espaço Interno: Amplo espaço interno para instalação de placas de vídeo de até 395mm e coolers de CPU de até 170mm de altura12.
-Ventilação: Suporte para até 9 fans, garantindo um excelente fluxo de ar e resfriamento eficiente para todos os componentes12.
-Watercooling: Compatível com radiadores de até 360mm no topo, lateral e parte inferior, permitindo configurações avançadas de resfriamento líquido12.
-Modularidade: Painel traseiro modular que pode ser adaptado às necessidades do usuário, facilitando a organização dos cabos e a instalação dos componentes12.
-Conectividade: Painel frontal com 2x USB 3.0, 1x USB 3.1 Tipo-C e conectores de áudio HD, oferecendo fácil acesso a periféricos e dispositivos12.
-Filtros de Poeira: Filtros de poeira magnéticos instalados em todas as aberturas para ar, ajudando a manter o interior do gabinete limpo12.
+Design: Painéis laterais e frontais em vidro temperado de 4mm, proporcionando uma visão clara dos componentes internos e um visual sofisticado.
+Compatibilidade: Suporte para placas-mãe ATX, Micro-ATX e Mini-ITX, oferecendo flexibilidade na escolha dos componentes.
+Espaço Interno: Amplo espaço interno para instalação de placas de vídeo de até 395mm e coolers de CPU de até 170mm de altura.
+Ventilação: Suporte para até 9 fans, garantindo um excelente fluxo de ar e resfriamento eficiente para todos os componentes.
+Watercooling: Compatível com radiadores de até 360mm no topo, lateral e parte inferior, permitindo configurações avançadas de resfriamento líquido.
+Modularidade: Painel traseiro modular que pode ser adaptado às necessidades do usuário, facilitando a organização dos cabos e a instalação dos componentes.
+Conectividade: Painel frontal com 2x USB 3.0, 1x USB 3.1 Tipo-C e conectores de áudio HD, oferecendo fácil acesso a periféricos e dispositivos.
+Filtros de Poeira: Filtros de poeira magnéticos instalados em todas as aberturas para ar, ajudando a manter o interior do gabinete limpo.
 Com o Lian Li Dynamic Mini-X O11, você terá um gabinete que não só protege e resfria seus componentes, mas também transforma seu setup em uma verdadeira obra de arte. Ideal para gamers e entusiastas que buscam o melhor em desempenho e estética
 
 =========================================================================================================================================
@@ -126,13 +126,13 @@ Ventoinha Noctua Redux-1300, 120mm, Cinza - NF-P12 redux-1300
 
 A Noctua NF-P12 redux-1300 é uma ventoinha de alta qualidade, projetada para oferecer um excelente desempenho de resfriamento com baixo nível de ruído. Ideal para uso em gabinetes de PC, coolers de CPU e radiadores de resfriamento líquido.
 
-Tamanho: 120mm, compatível com a maioria dos gabinetes e sistemas de resfriamento12.
-Velocidade de Rotação: 1300 RPM, proporcionando um equilíbrio perfeito entre fluxo de ar e silêncio12.
-Nível de Ruído: Apenas 19,8 dB(A), garantindo uma operação silenciosa mesmo em altas velocidades12.
-Conector: 3 pinos, facilitando a instalação em uma ampla gama de sistemas12.
-Tensão Operacional: 12V, com cabo de 40cm de comprimento para maior flexibilidade na instalação12.
-Rolamento: SSO (Self-Stabilizing Oil-pressure Bearing), que oferece uma vida útil longa e operação suave12.
-Design: Cor cinza, com um visual discreto e elegante que se adapta a qualquer configuração12.
+Tamanho: 120mm, compatível com a maioria dos gabinetes e sistemas de resfriamento.
+Velocidade de Rotação: 1300 RPM, proporcionando um equilíbrio perfeito entre fluxo de ar e silêncio.
+Nível de Ruído: Apenas 19,8 dB(A), garantindo uma operação silenciosa mesmo em altas velocidades.
+Conector: 3 pinos, facilitando a instalação em uma ampla gama de sistemas.
+Tensão Operacional: 12V, com cabo de 40cm de comprimento para maior flexibilidade na instalação.
+Rolamento: SSO (Self-Stabilizing Oil-pressure Bearing), que oferece uma vida útil longa e operação suave.
+Design: Cor cinza, com um visual discreto e elegante que se adapta a qualquer configuração.
 Com a Noctua NF-P12 redux-1300, você terá uma ventoinha confiável e eficiente, ideal para manter seu sistema resfriado e silencioso. Perfeita para entusiastas de PC que buscam qualidade e desempenho.
 
 ==========================================================================================================================================
